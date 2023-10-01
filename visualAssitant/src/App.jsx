@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>My Sweeet Visual Assistant </h1>
+      <h1>My Sweeet Visual Asset </h1>
 
       <Visual/>
 
@@ -16,5 +16,5 @@ function App() {
     </>
   )
 }
-
+  
 export default App
