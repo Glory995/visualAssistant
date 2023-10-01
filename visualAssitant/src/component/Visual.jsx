@@ -67,17 +67,17 @@ function Visual() {
     <div className="App">
       {/* Div 1 */}
       <div className="my-div div1" onClick={() => handleDivClick('div1')}>
-        Div 1
+        learn
       </div>
 
       {/* Div 2 */}
       <div className="my-div div2" onClick={() => handleDivClick('div2')}>
-        Div 2
+        read
       </div>
 
       {/* Div 3 */}
       <div className="my-div div3" onClick={() => handleDivClick('div3')}>
-        Div 3
+        write
       </div>
 
       {/* Special Div */}
